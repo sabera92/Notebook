@@ -1,6 +1,6 @@
 # PyPowSyBl Notebooks
 
-- Substation single line diagram notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sabera92/Notebook.git/pypowsybl-notebooks-main?labpath=
+- Substation single line diagram notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sabera92/Notebook/pypowsybl-notebooks-main?labpath=
 single_line_diagram.ipynb)
 - CGMES merging, load flow and PTDF calculation notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sabera92/Notebook.git/main?labpath=cgmes.ipynb)
 - Network area diagram notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sabera92/Notebook.git/main?labpath=network_area_diagram.ipynb)
