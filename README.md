@@ -9,4 +9,4 @@
 - pypowsybl-dynaflow: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sabera92/Notebook.git/main?labpath=pypowsybl-dynaflow.ipynb)
 
 
--pypowsybl-dynaflow (via dossier): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sabera92/Notebook/main?labpath=Dynawo_notebook%2Fpypowsybl-dynaflow.ipynb)
+-pypowsybl-dynaflow: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sabera92/Notebook/main?labpath=Dynaflow_notebook%2Fpypowsybl-dynaflow.ipynb)
