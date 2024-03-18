@@ -14,3 +14,5 @@ test
 -checkpoint: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sabera92/Notebook.git/HEAD?labpath=.ipynb_checkpoints%2Fpypowsybl-dynaflow-checkpoint.ipynb)
 
 - dynaflow [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sabera92/Notebook.git/HEAD?labpath=.ipynb_checkpoints%2Fpypowsybl-dynaflow.ipynb)
+
+-dynawo via dynawo dossier : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sabera92/Notebook/main?labpath=Dynawo%2Fpypowsybl-dynaflow.ipynb)
